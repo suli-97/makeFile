@@ -6,3 +6,15 @@ for 224
 我已经在里面存放了我用的一些资源和helper
 1，2，3，4，5 是大文件所以我没放，可以自行生成测试。
 谢谢🙏
+
+
+
+测试举例
+
+开启server meta 8080 block 8081
+
+make emptyFile
+
+...
+
+关闭server
